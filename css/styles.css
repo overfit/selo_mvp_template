@@ -1,0 +1,29 @@
+#butter-bar {
+    position: relative;
+    color: #fff;
+    background-color: #4285f4;
+    text-align: center;
+    padding: 8px 0
+}
+
+#butter-bar.orange {
+    background-color: #ffa800;
+    color: #000 !important
+}
+
+#butter-bar a {
+    text-decoration: underline !important;
+    font-weight: bold
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+}
+
+body {
+    padding-top: 100px;
+}
